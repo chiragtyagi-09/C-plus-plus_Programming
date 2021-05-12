@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+     int a,b;
+     cout<<"Enter first number: ";
+     cin>>a;
+     cout<<"Enter second number: ";
+     cin>>b;
+
+     cout<<"\nSum of these numbers is "<<a+b;
+     cout<<"\nDifference of these numbers is "<<a-b;
+     cout<<"\nMultiplication of these numbers is "<<a*b;
+     cout<<"\nDivision of these numbers is "<<a/b;
+
+     return 0;
+}
