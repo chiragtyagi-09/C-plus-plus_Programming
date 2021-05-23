@@ -1,0 +1,33 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a,b,c;
+
+    cout<<"\nEnter First number = ";
+    cin>>a;
+    cout<<"\nEnter Second number = ";
+    cin>>b;
+    cout<<"\nEnter Third number = ";
+    cin>>c;
+
+
+    if( a>b && a>c)
+    {
+        cout<<"\n The Greatest number is "<<a;
+    }
+     else if( b>c && b>a )
+    {
+        cout<<"\n The Greatest number is "<<b;
+    }
+     else if( c>a && c>b)
+    {
+        cout<<"\n The Greatest number is "<<c;
+    }
+     else
+    {
+        cout<<"\n All number are equal \n";
+    }
+
+return 0;
+}
