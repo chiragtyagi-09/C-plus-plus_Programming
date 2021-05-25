@@ -10,5 +10,5 @@ int main()
      
      std::cout<<"Sum of these numbers is "<<a+b;
      
-     return 0;
+return 0;
 }
