@@ -14,5 +14,5 @@ int main()
      cout<<"\nMultiplication of these numbers is "<<a*b;
      cout<<"\nDivision of these numbers is "<<a/b;
 
-     return 0;
+return 0;
 }
