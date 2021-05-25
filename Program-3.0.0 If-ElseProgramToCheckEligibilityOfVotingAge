@@ -15,7 +15,6 @@ int main()
     {
         cout<<"\nYou are not eligible to give vote\n";
     }
-
-
+    
 return 0;
 }
