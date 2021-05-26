@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int i,num,num1;
+    cout<<"\nEnter from where to start -> ";
+	cin>>num;
+	cout<<"\nEnter when to stop -> ";
+	cin>>num1;
+	for (int i=num;i<=num1;i++)
+	{
+       cout<<"\n"<<i;
+	}
+
+return 0;	
+}
