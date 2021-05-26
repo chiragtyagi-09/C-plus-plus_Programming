@@ -4,12 +4,12 @@ using namespace std;
 int main()
 {
 	int i,num;
-  cout<<"\nEnter how many times you want to print Hello World -> ";
+        cout<<"\nEnter how many times you want to print Hello World -> ";
 	cin>>num;
   
 	for (int i=1;i<=num;i++)
 	{
-       cout<<"\nHello World\n";
+           cout<<"\nHello World\n";
 	}
 
 return 0;	
