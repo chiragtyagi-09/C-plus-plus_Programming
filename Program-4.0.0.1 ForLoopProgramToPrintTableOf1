@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int i,num;
+        cout<<"\nEnter how many times you want to print table of 1 -> ";
+	cin>>num;
+  
+	for (int i=1;i<=num;i++)
+	{
+           cout<<"\n"<<i;
+	}
+
+return 0;	
+}
