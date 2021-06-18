@@ -18,6 +18,5 @@ int main()
         }
         cout << "\nFactorial of " << n << " = " << factorial<<"\n";    
     }
-
     return 0;
 }
