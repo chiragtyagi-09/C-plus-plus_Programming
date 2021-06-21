@@ -16,6 +16,6 @@ int main()
     }
     
     cout<< "\nPercentage = "<<sum/(float)n<<"\n";
-
+    
 return 0; 
 }
