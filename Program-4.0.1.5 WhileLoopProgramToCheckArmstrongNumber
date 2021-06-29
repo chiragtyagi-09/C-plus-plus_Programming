@@ -23,7 +23,6 @@ int main()
      {
        cout<<"Not an armstrong number";
      }
-
-
+     
 return 0;
 }
